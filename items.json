@@ -1,0 +1,706 @@
+{
+    "items": [
+
+        {
+            "item": "Hide Armor",
+            "weight": 5,
+            "value": 20
+        },
+
+        {
+            "item": "Fur Armor",
+            "weight": 6,
+            "value": 50
+        },
+
+        {
+            "item": "Studded Armor",
+            "weight": 6,
+            "value": 75
+        },
+
+        {
+            "item": "Leather Armor",
+            "weight": 6,
+            "value": 125
+        },
+
+        {
+            "item": "Elven Armor",
+            "weight": 4,
+            "value": 255
+        },
+
+        {
+            "item": "Chitin Armor",
+            "weight": 4,
+            "value": 240
+        },
+
+        {
+            "item": "Scaled Armor",
+            "weight": 6,
+            "value": 350
+        },
+
+        {
+            "item": "Elven Gilded Armor",
+            "weight": 4,
+            "value": 550
+        },
+
+        {
+            "item": "Glass Armor",
+            "weight": 7,
+            "value": 900
+        },
+
+        {
+            "item": "Stalhrim Light Armor",
+            "weight": 7,
+            "value": 925
+        },
+
+        {
+            "item": "DragonScale Armor",
+            "weight": 10,
+            "value": 1500
+        },
+
+        {
+            "item": "Hide Boots",
+            "weight": 1,
+            "value": 10
+        },
+
+        {
+            "item": "Fur Boots",
+            "weight": 2,
+            "value": 5
+        },
+
+        {
+            "item": "Fur Shoes",
+            "weight": 2,
+            "value": 4
+        },
+        {
+            "item": "Leather Boots",
+            "weight": 2,
+            "value": 25
+        },
+
+        {
+            "item": "Elven Boots",
+            "weight": 1,
+            "value": 45
+        },
+
+        {
+            "item": "Chitin Boots",
+            "weight": 1,
+            "value": 50
+        },
+
+        {
+            "item": "Scaled Boots",
+            "weight": 2,
+            "value": 70
+        },
+
+        {
+            "item": "Glass Boots",
+            "weight": 2,
+            "value": 190
+        },
+
+        {
+            "item": "Stalhrim Light Boots",
+            "weight": 2,
+            "value": 215
+        },
+
+        {
+            "item": "Dragonscale Boots",
+            "weight": 3,
+            "value": 300
+        },
+
+        {
+            "item": "Hide Helmet",
+            "weight": 2,
+            "value": 25
+        },
+
+        {
+            "item": "Fur Helmet",
+            "weight": 1,
+            "value": 23
+        },
+
+        {
+            "item": "Leather Helmet",
+            "weight": 2,
+            "value": 60
+        },
+
+        {
+            "item": "Elven Helmet",
+            "weight": 1,
+            "value": 110
+        },
+
+        {
+            "item": "Chitin Helmet",
+            "weight": 1,
+            "value": 125
+        },
+
+        {
+            "item": "Scaled Helmet",
+            "weight": 2,
+            "value": 175
+        },
+
+        {
+            "item": "Glass Helmet",
+            "weight": 2,
+            "value": 450
+        },
+
+        {
+            "item": "Stalhrim Light Helmet",
+            "weight": 2,
+            "value": 465
+        },
+
+        {
+            "item": "Dragonscale",
+            "weight": 4,
+            "value": 750
+        },
+
+        {
+            "item": "Hide Shield",
+            "weight": 4,
+            "value": 25
+        },
+
+        {
+            "item": "Elven Shield",
+            "weight": 4,
+            "value": 115
+        },
+
+        {
+            "item": "Chitin Shield",
+            "weight": 8,
+            "value": 215
+        },
+
+        {
+            "item": "Glass Shield",
+            "weight": 6,
+            "value": 450
+        },
+
+        {
+            "item": "Dragon Shield",
+            "weight": 6,
+            "value": 750
+        },
+
+        {
+            "item": "Stalhrim Shield",
+            "weight": 10,
+            "value": 600
+        },
+
+        {
+            "item": "Iron Armor",
+            "weight": 30,
+            "value": 125
+        },
+
+        {
+            "item": "Banded Iron Armor",
+            "weight": 35,
+            "value": 200
+        },
+
+        {
+            "item": "Steel Armor",
+            "weight": 35,
+            "value": 275
+        },
+
+        {
+            "item": "Bonemold Armor",
+            "weight": 34,
+            "value": 290
+        },
+
+        {
+            "item": "Bonemold Pauldron Armor",
+            "weight": 36,
+            "value": 290
+        },
+
+        {
+            "item": "Dwarven Armor",
+            "weight": 45,
+            "value": 400
+        },
+
+        {
+            "item": "Improved Bonemold Armor",
+            "weight": 43,
+            "value": 290
+        },
+
+        {
+            "item": "Steel Plate Armor",
+            "weight": 38,
+            "value": 625
+        },
+
+        {
+            "item": "Chitin Heavy Armor",
+            "weight": 35,
+            "value": 650
+        },
+
+        {
+            "item": "Orcish Armor",
+            "weight": 35,
+            "value": 1000
+        },
+
+        {
+            "item": "Ebony Armor",
+            "weight": 38,
+            "value": 1500
+        },
+
+        {
+            "item": "Nordic Carved Armor",
+            "weight": 37,
+            "value": 1600
+        },
+
+        {
+            "item": "Dragonplate Armor",
+            "weight": 40,
+            "value": 2125
+        },
+
+        {
+            "item": "Stalhrim Heavy Armor",
+            "weight": 38,
+            "value": 2200
+        },
+
+        {
+            "item": "Daedric Armor",
+            "weight": 50,
+            "value": 3200
+        },
+
+        {
+            "item": "Iron Boots",
+            "weight": 6,
+            "value": 25
+        },
+
+        {
+            "item": "Steel Cuffed Boots",
+            "weight": 8,
+            "value": 55
+        },
+
+        {
+            "item": "Bonemold Boots",
+            "weight": 7,
+            "value": 60
+        },
+
+        {
+            "item": "Improved Bonemold Boots",
+            "weight": 9,
+            "value": 60
+        },
+
+        {
+            "item": "Dwarven Boots",
+            "weight": 10,
+            "value": 85
+        },
+
+        {
+            "item": "Steel Plate Boots",
+            "weight": 9,
+            "value": 125
+        },
+
+        {
+            "item": "Chitin Heavy Boots",
+            "weight": 6,
+            "value": 135
+        },
+
+        {
+            "item": "Orcish Boots",
+            "weight": 7,
+            "value": 200
+        },
+
+        {
+            "item": "Nordic Carved Boots",
+            "weight": 6,
+            "value": 220
+        },
+
+        {
+            "item": "Ebony Boots",
+            "weight": 7,
+            "value": 275
+        },
+
+        {
+            "item": "Dragonplate Boots",
+            "weight": 8,
+            "value": 425
+        },
+
+        {
+            "item": "Stalhrim Heavy Boots",
+            "weight": 7,
+            "value": 450
+        },
+
+        {
+            "item": "Daedric Boots",
+            "weight": 10,
+            "value": 625
+        },
+
+        {
+            "item": "Iron Helmet",
+            "weight": 5,
+            "value": 60
+        },
+
+        {
+            "item": "Steel Helmet",
+            "weight": 5,
+            "value": 125
+        },
+
+        {
+            "item": "Bonemold Helmet",
+            "weight": 5,
+            "value": 135
+        },
+
+        {
+            "item": "Dwarven Helmet",
+            "weight": 12,
+            "value": 200
+        },
+
+        {
+            "item": "Chitin Heavy Helmet",
+            "weight": 5,
+            "value": 135
+        },
+
+        {
+            "item": "Steel Plate Helmet",
+            "weight": 6,
+            "value": 500
+        },
+
+        {
+            "item": "Orcish Helmet",
+            "weight": 8,
+            "value": 500
+        },
+
+        {
+            "item": "Nordic Carved Helmet",
+            "weight": 7,
+            "value": 550
+        },
+
+        {
+            "item": "Ebony Helmet",
+            "weight": 10,
+            "value": 750
+        },
+
+        {
+            "item": "Enhanced Dwarven Crossbow",
+            "weight": 21,
+            "value": 550
+        },
+
+        {
+            "item": "Shellbug Helmet",
+            "weight": 6,
+            "value": 600
+        },
+
+        {
+            "item": "Dragonplate Helmet",
+            "weight": 8,
+            "value": 1050
+        },
+
+        {
+            "item": "Stalhrim Helmet",
+            "weight": 7,
+            "value": 1135
+        },
+
+        {
+            "item": "Daedric Helmet",
+            "weight": 15,
+            "value": 1600
+        },
+
+        {
+            "item": "Iron Shield",
+            "weight": 12,
+            "value": 60
+        },
+
+        {
+            "item": "Bonemold Shield",
+            "weight": 8,
+            "value": 95
+        },
+
+        {
+            "item": "Banded Iron Shield",
+            "weight": 12,
+            "value": 100
+        },
+
+        {
+            "item": "Steel Shield",
+            "weight": 12,
+            "value": 150
+        },
+
+        {
+            "item": "Dwarven Shield",
+            "weight": 12,
+            "value": 225
+        },
+
+        {
+            "item": "Nordic Shield",
+            "weight": 10,
+            "value": 335
+        },
+
+        {
+            "item": "Orcish Shield",
+            "weight": 14,
+            "value": 500
+        },
+
+        {
+            "item": "Ebony Shield",
+            "weight": 14,
+            "value": 750
+        },
+
+        {
+            "item": "Dragonplate Shield",
+            "weight": 15,
+            "value": 1050
+        },
+
+        {
+            "item": "Daedric Shield",
+            "weight": 15,
+            "value": 1600
+        },
+
+        {
+            "item": "necklace",
+            "weight": 5,
+            "value": 100
+        },
+
+        {
+            "item": "Dragonbone Greatsword",
+            "weight": 27,
+            "value": 2725
+        },
+
+        {
+            "item": "Dragonbone Bow",
+            "weight": 20,
+            "value": 2725
+    },
+
+
+    {
+            "item": "Ebony Battleaxe",
+            "weight": 26,
+            "value": 1585
+    },
+
+    {
+            "item": "Elven Dagger",
+            "weight": 4,
+            "value": 95
+    },
+
+    {
+            "item": "Glass Dagger",
+            "weight": 4,
+            "value": 165
+    },
+
+    {
+            "item": "Stalhrim Mace",
+            "weight": 18,
+            "value": 1375
+    },
+
+    {
+            "item": "Nordic War Axe",
+            "weight": 14,
+            "value": 350
+    },
+
+    {
+            "item": "Elven Bow",
+            "weight": 12,
+            "value": 470
+    },
+
+    {
+            "item": "Hunting Bow",
+            "weight": 7,
+            "value": 50
+    },
+
+    {
+            "item": "Worn Shrouded Armor",
+            "weight": 6,
+            "value": 80
+    },
+
+    {
+            "item": "Worn Shrouded Boots",
+            "weight": 2,
+            "value": 45
+    },
+
+    {
+            "item": "Worn Shrouded Cowl",
+            "weight": 2,
+            "value": 50
+    },
+
+    {
+            "item": "Worn Shrouded Gloves",
+            "weight": 2,
+            "value": 50
+    },
+
+    {
+            "item": "Amulet of Talos",
+            "weight": 1,
+            "value": 25
+    },
+
+    {
+            "item": "Fork",
+            "weight": 1,
+            "value": 5
+    },
+
+    {
+            "item": "Common Soul Gem",
+            "weight": 1,
+            "value": 50
+    },
+
+    {
+            "item": "Common Soul Gem",
+            "weight": 1,
+            "value": 50
+    },
+
+    {
+            "item": "Common Soul Gem",
+            "weight": 1,
+            "value": 150
+    },
+
+    {
+            "item": "Greater Soul Gem",
+            "weight": 1,
+            "value": 350
+    },
+
+    {
+            "item": "East Empire Shipping Map",
+            "weight": 1,
+            "value": 1
+    },
+
+    {
+            "item": "Finn’s Lute",
+            "weight": 4,
+            "value": 25
+    },
+
+{
+            "item": "Unusual Gem",
+            "weight": 1,
+            "value": 200
+    },
+
+{
+            "item": "Wylandriah’s Spoon",
+            "weight": 1,
+            "value": 5
+    },
+
+{
+            "item": "Elixir of the Healer",
+            "weight": 1,
+            "value": 265
+    },
+
+    {
+            "item": "Elixir of Light Feet",
+            "weight": 1,
+            "value": 123
+    },
+
+    {
+            "item": "Potion of Brief Invisibility",
+            "weight": 1,
+            "value": 334
+    },
+
+    {
+            "item": "Draught of Waterbreathing",
+            "weight": 1,
+            "value": 100
+    },
+
+    {
+            "item": "Beware the Butcher",
+            "weight": 1,
+            "value": 1
+    }
+    ]
+}
